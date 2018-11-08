@@ -1,0 +1,2 @@
+# DotNetCoreMicrosoftExtensionInside
+Logging,Configuration,Option,DependencyInjection,Caching
